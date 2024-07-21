@@ -22,7 +22,9 @@ Perform data cleaning and preprocessing.
 Build and train a machine learning model.
 ![image](https://github.com/user-attachments/assets/37660212-d940-4d35-9127-9bfdd211aa33)
 Evaluate the model.
+![image](https://github.com/user-attachments/assets/d9a21b57-24ed-42bb-909a-6a92dbb1739c)
 
+# Conclution
 
-
+The final model achieves an accuracy of approximately 80% on the test set. 
 
