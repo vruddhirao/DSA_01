@@ -13,6 +13,8 @@ Fare
 Cabin
 Whether or not they survived
 
+# Steps to Perform
+
 Load the Dataset.
 ![image](https://github.com/user-attachments/assets/de9850d9-77d1-428a-8947-0fef2b3450da)
 Perform data cleaning and preprocessing.
